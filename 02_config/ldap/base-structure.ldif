@@ -1,0 +1,9 @@
+dn: ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: organizationalUnit
+ou: people
+
+dn: ou=groups,dc=shiftzz,dc=net
+objectClass: top
+objectClass: organizationalUnit
+ou: groups

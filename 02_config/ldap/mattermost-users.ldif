@@ -1,0 +1,254 @@
+dn: cn=Ian Tien,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Ian Tien
+sn: Tien
+givenName: Ian
+uid: ian.tien
+mail: ian.tien@shiftzz.net
+uidNumber: 10001
+gidNumber: 10000
+homeDirectory: /home/ian.tien
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Corey Hulen,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Corey Hulen
+sn: Hulen
+givenName: Corey
+uid: corey.hulen
+mail: corey.hulen@shiftzz.net
+uidNumber: 10002
+gidNumber: 10000
+homeDirectory: /home/corey.hulen
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Leigh Dow,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Leigh Dow
+sn: Dow
+givenName: Leigh
+uid: leigh.dow
+mail: leigh.dow@shiftzz.net
+uidNumber: 10003
+gidNumber: 10000
+homeDirectory: /home/leigh.dow
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Shigeru Harasawa,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Shigeru Harasawa
+sn: Harasawa
+givenName: Shigeru
+uid: shigeru.harasawa
+mail: shigeru.harasawa@shiftzz.net
+uidNumber: 10004
+gidNumber: 10000
+homeDirectory: /home/shigeru.harasawa
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Matt Mandrgoc,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Matt Mandrgoc
+sn: Mandrgoc
+givenName: Matt
+uid: matt.mandrgoc
+mail: matt.mandrgoc@shiftzz.net
+uidNumber: 10005
+gidNumber: 10000
+homeDirectory: /home/matt.mandrgoc
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Devanesan Moses,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Devanesan Moses
+sn: Moses
+givenName: Devanesan
+uid: devanesan.moses
+mail: devanesan.moses@shiftzz.net
+uidNumber: 10006
+gidNumber: 10000
+homeDirectory: /home/devanesan.moses
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=James Mullins,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: James Mullins
+sn: Mullins
+givenName: James
+uid: james.mullins
+mail: james.mullins@shiftzz.net
+uidNumber: 10007
+gidNumber: 10000
+homeDirectory: /home/james.mullins
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Ajay Uppaluri,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Ajay Uppaluri
+sn: Uppaluri
+givenName: Ajay
+uid: ajay.uppaluri
+mail: ajay.uppaluri@shiftzz.net
+uidNumber: 10008
+gidNumber: 10000
+homeDirectory: /home/ajay.uppaluri
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Jason Blais,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Jason Blais
+sn: Blais
+givenName: Jason
+uid: jason.blais
+mail: jason.blais@shiftzz.net
+uidNumber: 10009
+gidNumber: 10000
+homeDirectory: /home/jason.blais
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Daniel Schalla,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Daniel Schalla
+sn: Schalla
+givenName: Daniel
+uid: daniel.schalla
+mail: daniel.schalla@shiftzz.net
+uidNumber: 10010
+gidNumber: 10000
+homeDirectory: /home/daniel.schalla
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Pavel Zeman,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Pavel Zeman
+sn: Zeman
+givenName: Pavel
+uid: pavel.zeman
+mail: pavel.zeman@shiftzz.net
+uidNumber: 10011
+gidNumber: 10000
+homeDirectory: /home/pavel.zeman
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Linda Dalenberg,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Linda Dalenberg
+sn: Dalenberg
+givenName: Linda
+uid: linda.dalenberg
+mail: linda.dalenberg@shiftzz.net
+uidNumber: 10012
+gidNumber: 10000
+homeDirectory: /home/linda.dalenberg
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Lane McFarland,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Lane McFarland
+sn: McFarland
+givenName: Lane
+uid: lane.mcfarland
+mail: lane.mcfarland@shiftzz.net
+uidNumber: 10013
+gidNumber: 10000
+homeDirectory: /home/lane.mcfarland
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Kendra Niedziejko,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Kendra Niedziejko
+sn: Niedziejko
+givenName: Kendra
+uid: kendra.niedziejko
+mail: kendra.niedziejko@shiftzz.net
+uidNumber: 10014
+gidNumber: 10000
+homeDirectory: /home/kendra.niedziejko
+loginShell: /bin/bash
+userPassword: ****************
+
+dn: cn=Nirosha Ruwan,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Nirosha Ruwan
+sn: Ruwan
+givenName: Nirosha
+uid: nirosha.ruwan
+mail: nirosha.ruwan@shiftzz.net
+uidNumber: 10015
+gidNumber: 10000
+homeDirectory: /home/nirosha.ruwan
+loginShell: /bin/bash
+userPassword: ****************

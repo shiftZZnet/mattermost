@@ -1,0 +1,5 @@
+dn: cn=g_mattermost_sync,ou=groups,dc=shiftzz,dc=net
+objectClass: top
+objectClass: groupOfNames
+cn: g_mattermost_sync
+member: cn=John Doe,ou=people,dc=shiftzz,dc=net

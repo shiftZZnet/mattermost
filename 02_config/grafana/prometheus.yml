@@ -1,0 +1,20 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'mattermost'
+    static_configs:
+      - targets:
+          - 'shiftzz-mm01:8067'
+          - 'shiftzz-mm02:8067'
+
+  - job_name: 'nodes'
+    static_configs:
+      - targets:
+          - 'shiftzz-mm01:9100'
+          - 'shiftzz-mm02:9100'
+          - 'shiftzz-pg01:9100'
+  - job_name: 'postgres-exporter'
+    static_configs:
+      - targets:
+          - 'shiftzz-pg01:9187'

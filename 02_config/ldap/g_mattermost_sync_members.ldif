@@ -1,0 +1,19 @@
+dn: cn=g_mattermost_sync,ou=groups,dc=shiftzz,dc=net
+changetype: modify
+replace: member
+member: cn=John Doe,ou=people,dc=shiftzz,dc=net
+member: cn=Ian Tien,ou=people,dc=shiftzz,dc=net
+member: cn=Corey Hulen,ou=people,dc=shiftzz,dc=net
+member: cn=Leigh Dow,ou=people,dc=shiftzz,dc=net
+member: cn=Shigeru Harasawa,ou=people,dc=shiftzz,dc=net
+member: cn=Matt Mandrgoc,ou=people,dc=shiftzz,dc=net
+member: cn=Devanesan Moses,ou=people,dc=shiftzz,dc=net
+member: cn=James Mullins,ou=people,dc=shiftzz,dc=net
+member: cn=Ajay Uppaluri,ou=people,dc=shiftzz,dc=net
+member: cn=Jason Blais,ou=people,dc=shiftzz,dc=net
+member: cn=Daniel Schalla,ou=people,dc=shiftzz,dc=net
+member: cn=Pavel Zeman,ou=people,dc=shiftzz,dc=net
+member: cn=Linda Dalenberg,ou=people,dc=shiftzz,dc=net
+member: cn=Lane McFarland,ou=people,dc=shiftzz,dc=net
+member: cn=Kendra Niedziejko,ou=people,dc=shiftzz,dc=net
+member: cn=Nirosha Ruwan,ou=people,dc=shiftzz,dc=net

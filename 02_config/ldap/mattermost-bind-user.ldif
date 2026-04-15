@@ -1,0 +1,11 @@
+dn: cn=mattermost-bind,ou=people,dc=shiftzz,dc=net
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: mattermost-bind
+sn: bind
+givenName: mattermost
+uid: mattermost.bind
+mail: mattermost.bind@shiftzz.net
+userPassword: *******************
