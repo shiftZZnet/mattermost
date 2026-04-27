@@ -2,13 +2,13 @@
 **Technical Documentation**
 
 Author:		Joachim Baumgartner, Applicant for the position "Technical Account Manager, Germany"
-Date:		15/04/2026
+Date:		27/04/2026
 
 ---
 
 ## 1. Overview
 
-This document describes the setup of a **Mattermost Enterprise (v11.5.1)** environment in a **high availability (HA)** configuration. A production-like HA setup has been built and three real customer use cases have been validated: LDAP integration, monitoring/observability, and external integrations via webhooks — including troubleshooting edge cases like WebSocket handling and LDAP group resolution. 
+This document describes the setup of a **Mattermost Enterprise (v11.6.1)** environment in a **high availability (HA)** configuration. A production-like HA setup has been built and three real customer use cases have been validated: LDAP integration, monitoring/observability, and external integrations via webhooks — including troubleshooting edge cases like WebSocket handling and LDAP group resolution. 
 
 Additionally, the document describes a typical common pattern encountered by support engineers, the number of `Total Sessions` displayed in the system console's section `Site Statistics`
 
@@ -40,7 +40,7 @@ Additionally, the document describes a typical common pattern encountered by sup
 | shiftzz-mm02   | Mattermost Node 2    | Mattermost app, metrics endpoint     |
 | shiftzz-pg01   | Database / NFS       | PostgreSQL 18, NFS server, exporters |
 | shiftzz-gf01   | Monitoring           | Prometheus, Grafana                  |
-| ldap / lam host| Directory Services   | OpenLDAP, LAM                        |
+| shiftzz-lm01   | Directory Services   | OpenLDAP, LAM                        |
 +----------------+----------------------+--------------------------------------+
 ```
 
