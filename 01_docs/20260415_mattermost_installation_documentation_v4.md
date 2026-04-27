@@ -60,7 +60,7 @@ DB["shiftzz-pg01 (PostgreSQL 18, shared config, NFS export)"]
 NFS1["mm01 /data/mattermost"]
 NFS2["mm02 /data/mattermost"]
 
-LDAP["LDAP / LAM server (users, groups)"]
+LDAP["shiftzz-lm01 (users, groups)"]
 LDAPSYNC["Mattermost LDAP sync"]
 
 GF["shiftzz-gf01 (Prometheus + Grafana)"]
